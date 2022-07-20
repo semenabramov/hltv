@@ -1,0 +1,4 @@
+*.bd
+*.html
+*.txt
+__pycache__
